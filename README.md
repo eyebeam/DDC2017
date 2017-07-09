@@ -1,2 +1,128 @@
-# DDC2017
-Digital Day Camp 2017 Syllabus
+# Digital Day Camp, 2017 Syllabus
+
+> Repository of classes, teachers & resources shared at Eyebeam's youth summer program, [Digital Day Camp](http://eyebeam.org/events/digital-day-camp-2017/) 'DDC17', a two week long youth art and technology summer intensive. 
+
+During DDC17, students worked alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field and social topics around this year’s theme of **POWER**. The theme responds to Eyebeam’s current residency cohort and their focus examining relationships between power and technology. 
+
+As new models of computation mix with older forms of governance, the shape of Power is transforming. We will challenge youth to apply creative thinking strategies across a range of tools and topics with the goal to develop **critical, empowering and long-lasting relationships with technology** encouraging youth to see their role in its future as agents of change.
+
+<hr>
+
+## Day 1, Monday July 3rd
+
+### Welcome • by Lauren 
+
+- Overview, code of conduct and get to know you 'game' [Human Fax Machine](http://www.lucasihlein.net/The-Human-Fax-Machine-Experiment)
+
+### Paper Zines • by [Taehee Whang](http://taehee-whang.com/)
+
+- In this workshop, students will learn simple circuitry and zine making inspired by the imagery and humor of meme. Through drawing, paper folding/cutting, and circuit designing, students will also learn about and consider the history, ethics and implications of memes. Tools used
+- [Chibitronics LED Stickers](https://www.amazon.com/Chibitronics-White-LED-Circuit-Stickers/dp/B013YRLO7I/ref=sr_1_1?ie=UTF8&qid=1499636335&sr=8-1&keywords=led+stickers)
+- [Copper Tape](https://www.amazon.com/PEMOTech-Conductive-21-8yards-Repellent-Electrical/dp/B01G8G4M58/ref=pd_sim_21_3?_encoding=UTF8&pd_rd_i=B01G8G4M58&pd_rd_r=WK7AXP3RAAJNC16YFRCT&pd_rd_w=KhE9I&pd_rd_wg=uGYAP&psc=1&refRID=WK7AXP3RAAJNC16YFRCT)
+- [Card Stock](https://www.amazon.com/gp/product/B0086XFRTM/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+
+
+## Day 2, Wednesday July 5th
+
+### Interconnected • by [Kellyrae Aldridge](http://www.kellyraealdridge.com/)
+
+- Students will design their own gif on a custom-built platform that loops each participant's code. Each time one person changes a variable (color, scale, etc.), the numerical value of that change pushes through everyone else’s code (think the telephone game, but with code). Each person actively one another’s gifs in an exercise of collaboration and letting go of control. Paired with a mural project in which each person is given a magnetic tile and a handful of shared constraints (color, scale etc.) that allow each tile to match up in numerous variations. An exercise in giving up creative control. See instagram @codandcraft_org for example
+- Art Historical Context: Two approaches to collective art practices: Dada performance, parades, and collages / Bauhaus art and design. 
+- Relationship to Power: Dada artists collectively-made artworks explored how mass media (radio, film) transformed how people acquired and expressed political and cultural power. At the same time, the Bauhaus school promoted collaborative design as a means towards building a more democratic, international, and equitable society.
+- Discussion: collaborative art work in relation to design, social justice, and technology
+- Materials: Large sheet metal backdrop (already constructed), craft paint, foam core, paint brushes, magnetic tape, computers
+- [GLC Gif Loop Coder](http://www.gifloopcoder.com/docs/intro.html)
+
+### The Power of Storytelling • by [Haley Shibble](http://thisis.haleyshibble.com/)
+
+- Students create their own narratives using interactive storytelling techniques through code and animation. Discussion will focus on how storytelling can be a powerful experience and the most effective techniques to share an engaging story with an audience.
+- Learning goals & discussion topics: What makes a story engaging? How does storytelling give the us power? How can storytelling be interactive? How can this give the audience power? 
+- Skills covered: Storyboarding/character development, Animation (stop-motion & 2D) basic concepts, HTML/CSS, JavaScript 
+- Materials needed: "colorful cardstock, scissors, pencils, and painter's tape. imacs, ipads & phones. 
+- Software used: Stop Motion Studio [for Android](https://play.google.com/store/apps/details?id=com.cateater.stopmotionstudio&hl=en) & [for iPhone](https://itunes.apple.com/us/app/stop-motion-studio/id441651297?mt=8)
+
+## Day 3, Thursday July 6th
+
+### 3D Printing & Art Activism • by [Morehshin Allahyari](http://www.morehshin.com/)
+-Technology can open up new perspectives, providing people with the means to challenge the structures, ideas, and institutions that maintain the status quo. But technological change is—almost by definition—tied to the functions of capitalism: a system that profits the few, often at the expense of civil liberties or the environment. 
+For this course, we aim to challenge and take action around a technology filled with hope and promise: the 3D printer. After considering the metaphorical and practical implications of additive processes, and exploring the revolutionary spaces opened up by art activism, students will devise a series of practical and conceptual 3D-printable designs and projects that have radical implications. We will discuss and explore the potential of “disobedient objects” and their influence on social and political movements. We will reconsider activism as a form of change and question the notion of problem solving using dystopia, horror, and weirding as methodologies.
+- Software used: [MeshMixer](http://www.meshmixer.com/)
+
+### Make and Play Your Own Poetry Instrument • by [Todd Anderson](https://toddwords.com/)
+- Use code and a wireless keyboard to make an audio-visual poetry for stage performance.
+In this class students will build poetry instruments and try to get good at playing them. By 'instrument' I mean an interactive work that can be played differently each time, has a learning curve and can be remixed and improvised when performed live. We will build our instruments using Javascript keyboard events to control the text on the screen, and also corresponding sounds, images and animations (depending on how deep you want to go).
+- [Class Syllabus including tools and software](https://github.com/toddwords/poetry-instruments)
+
+## Day 3, Thursday July 6th
+
+### 3D Printing & Art Activism • by [Morehshin Allahyari](http://www.morehshin.com/)
+- Continuing from the previous day, students share their recipies, learn [MeshMixer](http://www.meshmixer.com/) and create their own 3D objects to be printed.
+
+### New Worlds: What Games Make Possible • by [Nora Khan](https://noranahidkhan.com/)
+- Games aren't all gore, violence, and brutal competition (not that there's anything wrong with that). In the first half of this class, Nora will walk Digital Day Campers through her perspective and thoughts on what video games and simulations, generally, do for us that other mediums fail at: suggest new worlds, new models for relationships, and new ways to be in the world. You can be a woman, or a man, or no gender at all. You can see your city from a totally different perspective (underground, above ground, strafing across buildings). We'll look at games across the spectrum, from narrative-based games and shooters to multiplayers, from Grand Theft Auto V to Dragon Age, Mortal Kombat to Gone Home, Borderlands 2 to Bayonetta.
+After looking at some of the countless ""new worlds"" games offer, the second half of the class will have us look at some Steam Games after setting up a personal account, play through a few levels, and then engage in a creative exercise to think of some new ideas on our own. The aim is to think and work through how a system can reformat and shape us, giving us important tools to go back out into the world with :)
+- Materials: Computer, [Steam](http://store.steampowered.com/) and these games for playthrough and discussion
+- Realm of the Mad God (Sick 8-bit retro-style MMO)
+- Adventure Capitalist (Simulate capitalism, which we are all stuck in, sick)
+- Spooky’s Jump Scare Mansion (pretty scary)
+- Super Crate Box (fun and cute)
+- How Do You Do It? (disturbing and weird)
+
+## Day 5, Monday July 10th
+
+### Critical Theory and Critical Thinking in the age of Hip Hop influenced Music, Film, and Comedy • by Michael K Taylor
+- Sections:
+A) A brief introduction to Critical Theory basics in the context of historic European society class structures and a brief introduction to Critical Theory in the context of modern global society class structures with a focus on America. The creation of the Frankfurt School and it’s spread to America during WWII. European class structures and their influence on modern and American class structures (race, gender, sexuality & income.)
+B) A brief introduction to histories of individual and community empowerment through Hip Hop using a few examples such as specific songs, groups, and movements from the East, West, and Gulf coasts.  Will contextualize various Hip Hop themes such as self-empowerment, freedom, radical collaboration, and class migration. May include the East and West coast versions of “Headed for Self Destruction,” Dave Chappell’s explanation for turning down 50 Million in the context of power within his own show, Lauren Hill’s lyrics about career vs. child bearing in “Zion,” Master P’s influence on creating “independent” labels and music, and Women MC’s.
+C) Compare/Contrast parts of Critical Theory and Hip Hop movements in the context of modern challenges for self empowerment, community empowerment, and class migration.
+D) Brief open introduction and discussion on recent technology that can be used to empower, beginning from free to expensive. Contextualize the importance of accessibility and strategy when using technology.
+E) Individual interests, current technology usage, and individual perspectives would be the content for students to begin a strategy for how they can use Tech individually and collaboratively.
+- As a workshop, lesson would be brief introductions to these histories citing specific example and using specific writings. Because of the vocabulary density of some writings, or poetic language of rap lyrics, each would come with a brief summary. Hip Hop would be the primary comparison to CritTheory because of its modern history of creation and of using technology such as turntables, radio, & social media to reach interested audiences that do not share current locations. (Also it range of content.) Each hour would need to introduce through dialogue and provide 10min of reflection and writing. Final hour(s) would be used to plan archetypes for action.
+- As a class, each section could last longer with more opportunity to reflect, dialogue, and converse about both the reading and observations from the students about issues they are concerned about and how theory and tech can be used to research and communicate their own perspective. Because considerations of application of knowledge are important, the lesson size would need to expand or decrease depending on time available. Also there would be the option of  students democratically selecting which reading or topics to discuss with access for self study on non-discussed topics.
+- (The instructor and lesson intend to stay neutral on specific politics while providing information and opportunity for students to speak and share their individual perspectives and experiences.)
+- Tools: Copy Machine and/or digital device for reading. Printouts to take home or receive via email. highlighters, xerox for printouts
+
+## Day 6, Tuesday July 11th
+
+### Power of Mobility: NYC Transportation Reimagined • by Selena Kim & Katie Temrowski
+- Imagine a dystopian New York where public transportation system has lost all of its power to serve those who need it the most. Why would that be a problem? How would you go about solving this problem? What do you need to know to come up with an effective solution? In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript.
+- iMacs, Internet Access, Desks and chairs, Whiteboard, Paper and pen, and Post-it stickies
+- Unity 5
+
+### Salvage • by Amelia Marzec
+https://diyhacking.com/arduino-speaker/
+We were talking about having groups of 2 people (5 groups).
+For the workshop we'd need:
+the stuff Eyebeam is throwing out (would collect 5 or more speakers from it)
+soldering irons
+wire clippers
+solder
+wire (red-black would be nice so they learn about power and ground)
+arduinos (5?)
+Probably we'd need the whole hour and a half.
+20 mins intro and talk about my work and using trash, have a short discussion
+20 mins soldering tutorial and de-soldering speakers
+20 mins to do the speaker / sound tutorial
+then they can try using different sounds
+
+## Day 7, Wednesday July 12th
+
+### Activism-oriented Twitter Bot • by Ari J Melenciano
+In this course we will build Twitter bots that can be used to engage users politically with tweets that reflect social injustices. This will be done through the text editor, Atom.
+Goals of this course include teaching students how to "hack" social media for activist purposes, how to build personal APIs, how to build a twitterbot, and some basic understanding of coding.
+
+### 
+
+## Day 8, Thursday July 13th
+
+### Automating Video • by Sam Lavigne
+In this workshop we’ll use Python and basic command line tools to explore the possibilities of manipulating video with code. We’ll treat video as a textual as well as visual medium, and focus on repurposing found footage to generate new compositions and narratives.
+https://github.com/antiboredom/automating-video
+computers, software from here installed: http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/
+
+###
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
