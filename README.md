@@ -2,17 +2,17 @@
 
 > Repository of classes, teachers & resources shared at Eyebeam's youth summer program, [Digital Day Camp](http://eyebeam.org/events/digital-day-camp-2017/) 'DDC17', a two week long youth art and technology summer intensive. 
 
-During DDC17, students worked alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field and social topics around this year’s theme of **POWER**. The theme responds to Eyebeam’s current residency cohort and their focus examining relationships between power and technology. 
+⋅⋅⋅During DDC17, students worked alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field and social topics around this year’s theme of **POWER**. The theme responds to Eyebeam’s current residency cohort and their focus examining relationships between power and technology. 
 
-As new models of computation mix with older forms of governance, the shape of Power is transforming. We will challenge youth to apply creative thinking strategies across a range of tools and topics with the goal to develop **critical, empowering and long-lasting relationships with technology** encouraging youth to see their role in its future as agents of change.
+⋅⋅⋅As new models of computation mix with older forms of governance, the shape of Power is transforming. We will challenge youth to apply creative thinking strategies across a range of tools and topics with the goal to develop **critical, empowering and long-lasting relationships with technology** encouraging youth to see their role in its future as agents of change.
 
 <hr>
 
 ## Day 1, Monday July 3rd
 
-### Welcome • by Lauren 
+### Welcome • by Lauren Gardner
 
-- Overview, code of conduct and get to know you 'game' [Human Fax Machine](http://www.lucasihlein.net/The-Human-Fax-Machine-Experiment)
+- Overview, code of conduct and get to know you 'game' Human Computer
 
 ### Paper Zines • by [Taehee Whang](http://taehee-whang.com/)
 
@@ -70,57 +70,63 @@ After looking at some of the countless ""new worlds"" games offer, the second ha
 
 ## Day 5, Monday July 10th
 
-### Critical Theory and Critical Thinking in the age of Hip Hop influenced Music, Film, and Comedy • by Michael K Taylor
+### Critical Theory and Critical Thinking in the age of Hip Hop influenced Music, Film, and Comedy • by [Michael K Taylor](http://www.artistmkt.com/)
 - Sections:
-A) A brief introduction to Critical Theory basics in the context of historic European society class structures and a brief introduction to Critical Theory in the context of modern global society class structures with a focus on America. The creation of the Frankfurt School and it’s spread to America during WWII. European class structures and their influence on modern and American class structures (race, gender, sexuality & income.)
-B) A brief introduction to histories of individual and community empowerment through Hip Hop using a few examples such as specific songs, groups, and movements from the East, West, and Gulf coasts.  Will contextualize various Hip Hop themes such as self-empowerment, freedom, radical collaboration, and class migration. May include the East and West coast versions of “Headed for Self Destruction,” Dave Chappell’s explanation for turning down 50 Million in the context of power within his own show, Lauren Hill’s lyrics about career vs. child bearing in “Zion,” Master P’s influence on creating “independent” labels and music, and Women MC’s.
-C) Compare/Contrast parts of Critical Theory and Hip Hop movements in the context of modern challenges for self empowerment, community empowerment, and class migration.
-D) Brief open introduction and discussion on recent technology that can be used to empower, beginning from free to expensive. Contextualize the importance of accessibility and strategy when using technology.
-E) Individual interests, current technology usage, and individual perspectives would be the content for students to begin a strategy for how they can use Tech individually and collaboratively.
-- As a workshop, lesson would be brief introductions to these histories citing specific example and using specific writings. Because of the vocabulary density of some writings, or poetic language of rap lyrics, each would come with a brief summary. Hip Hop would be the primary comparison to CritTheory because of its modern history of creation and of using technology such as turntables, radio, & social media to reach interested audiences that do not share current locations. (Also it range of content.) Each hour would need to introduce through dialogue and provide 10min of reflection and writing. Final hour(s) would be used to plan archetypes for action.
+1. A brief introduction to Critical Theory basics in the context of historic European society class structures and a brief introduction to Critical Theory in the context of modern global society class structures with a focus on America. The creation of the [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School) and it’s spread to America during WWII. European class structures and their influence on modern and American class structures (race, gender, sexuality & income.)
+..Further resources for follup, the [Yale Open School course on Critical Theory](http://oyc.yale.edu/english/engl-300)
+2. A brief introduction to histories of individual and community empowerment through Hip Hop using a few examples such as specific songs, groups, and movements from the East, West, and Gulf coasts.  These contextualize various Hip Hop themes such as self-empowerment, freedom, radical collaboration, and class migration. May include the East and West coast versions of “[Headed for Self Destruction](https://www.youtube.com/watch?v=jxyYP_bS_6s),” Dave Chappell’s explanation for turning down 50 Million in the context of power within his own show, Lauren Hill’s lyrics about career vs. child bearing in “Zion,” Master P’s influence on creating “independent” labels and music, and Women MC’s.
+3. Compare/Contrast parts of Critical Theory and Hip Hop movements in the context of modern challenges for self empowerment, community empowerment, and class migration.
+4. Brief open introduction and discussion on recent technology that can be used to empower, beginning from free to expensive. Contextualize the importance of accessibility and strategy when using technology.
+5. Individual interests, current technology usage, and individual perspectives would be the content for students to begin a strategy for how they can use Tech individually and collaboratively.
+- As a workshop, lesson would be brief introductions to these histories citing specific example and using specific writings. Because of the vocabulary density of some writings, or poetic language of rap lyrics, each would come with a brief summary. Hip Hop would be the primary comparison to CritTheory because of its modern history of creation and of using technology such as turntables, radio, & social media to reach interested audiences that do not share current locations. 
 - As a class, each section could last longer with more opportunity to reflect, dialogue, and converse about both the reading and observations from the students about issues they are concerned about and how theory and tech can be used to research and communicate their own perspective. Because considerations of application of knowledge are important, the lesson size would need to expand or decrease depending on time available. Also there would be the option of  students democratically selecting which reading or topics to discuss with access for self study on non-discussed topics.
 - (The instructor and lesson intend to stay neutral on specific politics while providing information and opportunity for students to speak and share their individual perspectives and experiences.)
 - Tools: Copy Machine and/or digital device for reading. Printouts to take home or receive via email. highlighters, xerox for printouts
 
 ## Day 6, Tuesday July 11th
 
-### Power of Mobility: NYC Transportation Reimagined • by Selena Kim & Katie Temrowski
-- Imagine a dystopian New York where public transportation system has lost all of its power to serve those who need it the most. Why would that be a problem? How would you go about solving this problem? What do you need to know to come up with an effective solution? In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript.
-- iMacs, Internet Access, Desks and chairs, Whiteboard, Paper and pen, and Post-it stickies
-- Unity 5
+### Power of Mobility: NYC Transportation Reimagined • by [Selena Kim](https://www.linkedin.com/in/selenaskim) & [Katie Temrowski](http://www.katietemrowski.com/about/)
+- Imagine a dystopian New York where public transportation system has lost all of its power to serve those who need it the most. Why would that be a problem? How would you go about solving this problem? What do you need to know to come up with an effective solution?  
+- In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript.
+- Resources: Recommended but not required readings and videos relevant to workshop materials
+1. What is Unity?
+..[Intro Tutorial](https://www.youtube.com/watch?v=Ep0rlBQRcVc)
+..[What is Unity?](http://insights.dice.com/2013/06/03/how-unity3d-become-a-game-development-beast/)
+2. Why is mobility important?
+..[Subway Delay Results (NYTimes)](https://www.nytimes.com/interactive/2017/06/28/nyregion/subway-delays-overcrowding.html)
+..[Future of Transportation (Washington Post)](https://www.washingtonpost.com/graphics/business/future-of-transportation/)
+..[Rise of Inequality (The Atlantic)](https://www.theatlantic.com/business/archive/2015/05/stranded-how-americas-failing-public-transportation-increases-inequality/393419/)
+3. What is design thinking?
+..[Introduction to Design Thinking (Youtube)](https://www.youtube.com/watch?v=a7sEoEvT8l8)
+..[Design Thinking Case Study (Harvard Business Review)](https://hbr.org/2016/01/better-service-faster-a-design-thinking-case-study)
+- Tools & Software: [Unity](https://unity3d.com/), iMacs, Internet Access, Whiteboard, Paper and pen, and Post-it stickies
 
-### Salvage • by Amelia Marzec
-https://diyhacking.com/arduino-speaker/
-We were talking about having groups of 2 people (5 groups).
-For the workshop we'd need:
-the stuff Eyebeam is throwing out (would collect 5 or more speakers from it)
-soldering irons
-wire clippers
-solder
-wire (red-black would be nice so they learn about power and ground)
-arduinos (5?)
-Probably we'd need the whole hour and a half.
-20 mins intro and talk about my work and using trash, have a short discussion
-20 mins soldering tutorial and de-soldering speakers
-20 mins to do the speaker / sound tutorial
-then they can try using different sounds
+### Salvage • by [Amelia Marzec](http://www.ameliamarzec.com/)
+- During this course students will repurpose discarded speakers to build their own musical instruments. They will be introduced to the arduino in order to program digital music.
+- Skills learned: Soldering & desoldering, working with electronics and circuits and programming with the Arduino
+- Software used [will be using this example](https://diyhacking.com/arduino-speaker/)
 
 ## Day 7, Wednesday July 12th
 
-### Activism-oriented Twitter Bot • by Ari J Melenciano
-In this course we will build Twitter bots that can be used to engage users politically with tweets that reflect social injustices. This will be done through the text editor, Atom.
-Goals of this course include teaching students how to "hack" social media for activist purposes, how to build personal APIs, how to build a twitterbot, and some basic understanding of coding.
+### Activism-oriented Twitter Bot • by [Ari J Melenciano](https://tisch.nyu.edu/itp/itp-people/current-students/ari-melenciano)
+- In this course we will build Twitter bots that can be used to engage users politically with tweets that reflect social injustices. This will be done through the text editor, [Atom](https://atom.io/).
+- Goals of this course include teaching students how to "hack" social media for activist purposes, how to build personal APIs, how to build a twitterbot, and gaining a basic understanding of coding.
 
-### 
+### Creative Live Communications • by [Jingwen Zhu](http://www.jingwen-zhu.com/)
+- Creative Live Communications is a workshop for students to learn about creating their own online communication platforms. Students will be exposed to the current situation of monopolized social media platforms and will be encouraged to design and create their own communication platforms.
+- Students will learn the basics of javascript programming and basic interaction design methods. The technical contents of the workshop will include: server-sided programming, frontend development and UX design.
+- Tools used: Arduino, Atom(or any other text editor), Chrome Browser, Terminal access to the computer.
+
 
 ## Day 8, Thursday July 13th
 
-### Automating Video • by Sam Lavigne
-In this workshop we’ll use Python and basic command line tools to explore the possibilities of manipulating video with code. We’ll treat video as a textual as well as visual medium, and focus on repurposing found footage to generate new compositions and narratives.
-https://github.com/antiboredom/automating-video
-computers, software from here installed: http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/
+### Automating Video • by [Sam Lavigne](http://lav.io/)
+- In this workshop we’ll use Python and basic command line tools to explore the possibilities of manipulating video with code. We’ll treat video as a textual as well as visual medium, and focus on repurposing found footage to generate new compositions and narratives.
+- Course overview [here](https://github.com/antiboredom/automating-video) and software and tools used can be found [here](http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/) 
 
-###
+### Understanding the Internet • by [Jonathan Dahan](http://jedahan.com/)
+- Through a series of embodied exercises students will replecate core components of the internet and the base structures that comprise it. This exercises is intended to provide a peek inside the black box, examine the history and decisions that were made in invention of the network and reimagine how it could have been constructed differently and what the possible outcomes could have been? 
+- Idea for this workshop is based on the previous work of Ingrid Burrington and Surya Mattu on their project [Networks Land](http://networks.land/)
 
 
 ## License
