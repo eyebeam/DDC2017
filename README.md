@@ -26,7 +26,8 @@ In this workshop, students will learn simple circuitry and zine making. Through 
     - [bubblesort](https://shop.bubblesort.io/collections/all), a zine which explains technical and computer functions
     - [Getting Started in Electronics](http://amzn.to/2t98XdK) which used hand drawn illustrations to show how circuits worked
 * Review different [methods for making](http://www.rookiemag.com/2012/05/how-to-make-a-zine/) zines and [different diagrams](http://highlowtech.org/?p=2505) for making circuits
-* Note: We found it best not to spend too much time on the electronics and get right into making. The students would then approach the zine from a design perspective and lay out the copper tape. When the lights wouldn't work we'd then help troubleshoot and this proved a better opportunity to learn about circuits and how electricity flows. It's helpful to explain here [short circuits](https://en.wikipedia.org/wiki/Short_circuit), open circuts and closed circuts.
+* Note: We found it best not to spend too much time on the electronics and get right into making. The students would then approach the zine from a design perspective and lay out the copper tape. When the lights wouldn't work we'd then help troubleshoot and this proved a better opportunity to learn about circuits and how electricity flows. 
+    - When troubleshooting, it's helpful to explain [short circuits](https://en.wikipedia.org/wiki/Short_circuit), open circuts and closed circuts.
 
 
 ## Day 2, Wednesday July 5th
