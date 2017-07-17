@@ -16,11 +16,15 @@ As new models of computation mix with older forms of governance, the shape of Po
 
 ### Paper Zines • by [Taehee Whang](http://taehee-whang.com/)
 
-In this workshop, students will learn simple circuitry and zine making inspired by the imagery and humor of meme. Through drawing, paper folding/cutting, and circuit designing, students will also learn about and consider the history, ethics and implications of memes. 
-Materials:
-- [Chibitronics LED Stickers](http://amzn.to/2vv3Vch)
-- [Copper Tape](http://amzn.to/2t8F3GI)
-- [Card Stock](http://amzn.to/2t8RSk0)
+In this workshop, students will learn simple circuitry and zine making. Through drawing, paper folding/cutting, and circuit designing, students will also learn how to debug and troubleshoot circuits and think of design implications around creating functional circuits. 
+* Materials:
+    - [Chibitronics LED Stickers](http://amzn.to/2vv3Vch)
+    - [Copper Tape](http://amzn.to/2t8F3GI)
+    - [Card Stock](http://amzn.to/2t8RSk0)
+    - sissors, tape, colored pencils, erasers
+* Instruction:
+    - Start by reviewing different examples of Zines and how they can be used to explain or share ideas like [bubblesort](https://shop.bubblesort.io/collections/all), a zine which explains technical and computer functions and [Getting Started in Electronics](http://amzn.to/2t98XdK) which used hand drawn illustrations to show how circuits worked. Review different [methods for making](http://www.rookiemag.com/2012/05/how-to-make-a-zine/) zines and [different diagrams](http://highlowtech.org/?p=2505) for making circuits.
+    - Note: We found it best not to spend too much time on the electronics and get right into making. The students would then approach the zine from a design perspective and lay out the copper tape. When the lights wouldn't work we'd then help troubleshoot and this proved a better opportunity to learn about circuits and how electricity flows. It's helpful to explain here [short circuits](https://en.wikipedia.org/wiki/Short_circuit), open circuts and closed circuts.
 
 
 ## Day 2, Wednesday July 5th
