@@ -124,9 +124,12 @@ After looking at some of the countless ""new worlds"" games offer, the second ha
 - Goals of this course include teaching students how to "hack" social media for activist purposes, how to build personal APIs, how to build a twitterbot, and gaining a basic understanding of coding.
 
 ### Creative Live Communications • by [Jingwen Zhu](http://www.jingwen-zhu.com/)
-- Creative Live Communications is a workshop for students to learn about creating their own online communication platforms. Students will be exposed to the current situation of monopolized social media platforms and will be encouraged to design and create their own communication platforms.
-- Students will learn the basics of javascript programming and basic interaction design methods. The technical contents of the workshop will include: server-sided programming, frontend development and UX design.
-- Tools used: Arduino, Atom(or any other text editor), Chrome Browser, Terminal access to the computer.
+During Creative Live Communications, students will create their own online communication platforms. Students will be exposed to the current situation of monopolized social media platforms and will be encouraged to design and create their own communication platforms centered around playful interaction and sharing.
+- Students will learn the basics of javascript programming and interaction design methods. The technical contents of the workshop will include: server-sided programming, frontend development and UX design.
+- Tools used: Arduino, Atom (or any other text editor), Chrome Browser, Terminal access to the computer.
+    - In class [demo](http://itp.jingwenzhu.com:8080/)
+    - P5 [web editor](https://alpha.editor.p5js.org/)
+    - Code [here](https://github.com/ZhuJingwen/creative-live-communications)
 
 
 ## Day 8, Thursday July 13th
