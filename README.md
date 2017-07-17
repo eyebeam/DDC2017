@@ -1,10 +1,10 @@
 # Digital Day Camp, 2017 Syllabus
 
-> Repository of classes, teachers & resources shared at Eyebeam's youth summer program, [Digital Day Camp](http://eyebeam.org/events/digital-day-camp-2017/) 'DDC17', a two week long youth art and technology summer intensive. 
+Repository of classes, teachers & resources shared at Eyebeam's youth summer program, [Digital Day Camp](http://eyebeam.org/events/digital-day-camp-2017/) 'DDC17', a two week long youth art and technology summer intensive. 
 
-⋅⋅⋅During DDC17, students worked alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field and social topics around this year’s theme of **POWER**. The theme responds to Eyebeam’s current residency cohort and their focus examining relationships between power and technology. 
+During DDC17, students worked alongside artist-educators engaging in hands-on workshops focusing on software, hardware, tools, careers in the field and social topics around this year’s theme of **POWER**. The theme responds to Eyebeam’s current residency cohort and their focus examining relationships between power and technology. 
 
-⋅⋅⋅As new models of computation mix with older forms of governance, the shape of Power is transforming. We will challenge youth to apply creative thinking strategies across a range of tools and topics with the goal to develop **critical, empowering and long-lasting relationships with technology** encouraging youth to see their role in its future as agents of change.
+As new models of computation mix with older forms of governance, the shape of Power is transforming. We will challenge youth to apply creative thinking strategies across a range of tools and topics with the goal to develop **critical, empowering and long-lasting relationships with technology** encouraging youth to see their role in its future as agents of change.
 
 <hr>
 
@@ -16,10 +16,11 @@
 
 ### Paper Zines • by [Taehee Whang](http://taehee-whang.com/)
 
-- In this workshop, students will learn simple circuitry and zine making inspired by the imagery and humor of meme. Through drawing, paper folding/cutting, and circuit designing, students will also learn about and consider the history, ethics and implications of memes. Tools used
-- [Chibitronics LED Stickers](https://www.amazon.com/Chibitronics-White-LED-Circuit-Stickers/dp/B013YRLO7I/ref=sr_1_1?ie=UTF8&qid=1499636335&sr=8-1&keywords=led+stickers)
-- [Copper Tape](https://www.amazon.com/PEMOTech-Conductive-21-8yards-Repellent-Electrical/dp/B01G8G4M58/ref=pd_sim_21_3?_encoding=UTF8&pd_rd_i=B01G8G4M58&pd_rd_r=WK7AXP3RAAJNC16YFRCT&pd_rd_w=KhE9I&pd_rd_wg=uGYAP&psc=1&refRID=WK7AXP3RAAJNC16YFRCT)
-- [Card Stock](https://www.amazon.com/gp/product/B0086XFRTM/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+In this workshop, students will learn simple circuitry and zine making inspired by the imagery and humor of meme. Through drawing, paper folding/cutting, and circuit designing, students will also learn about and consider the history, ethics and implications of memes. 
+Materials:
+- [Chibitronics LED Stickers](http://amzn.to/2vv3Vch)
+- [Copper Tape](http://amzn.to/2t8F3GI)
+- [Card Stock](http://amzn.to/2t8RSk0)
 
 
 ## Day 2, Wednesday July 5th
