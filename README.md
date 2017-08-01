@@ -141,6 +141,10 @@ During Creative Live Communications, students will create their own online commu
 - Through a series of embodied exercises students will replecate core components of the internet and the base structures that comprise it. This exercises is intended to provide a peek inside the black box, examine the history and decisions that were made in invention of the network and reimagine how it could have been constructed differently and what the possible outcomes could have been? 
 - Idea for this workshop is based on the previous work of Ingrid Burrington and Surya Mattu on their project [Networks Land](http://networks.land/)
 
+## Addtl Resources
+Lynda.com is a GREAT website for tutorial videos. It is typically a paid service BUT if you have a Brooklyn or NYPL library membership you can access this site and it's over 100k+ tutorials for free!
+- for [BPL members](https://www.bklynlibrary.org/lynda)
+- for [NYPL members](https://www.nypl.org/blog/2015/01/13/lynda-online-video-tutorials-training)
 
 ## License
 
