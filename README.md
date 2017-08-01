@@ -121,6 +121,19 @@ After looking at some of the countless ""new worlds"" games offer, the second ha
 ### Activism-oriented Twitter Bot • by [Ari J Melenciano](https://tisch.nyu.edu/itp/itp-people/current-students/ari-melenciano)
 - In this course we will build Twitter bots that can be used to engage users politically with tweets that reflect social injustices. This will be done through the text editor, [Atom](https://atom.io/).
 - Goals of this course include teaching students how to "hack" social media for activist purposes, how to build personal APIs, how to build a twitterbot, and gaining a basic understanding of coding.
+- Resources
+Learn to make more bots
+* Daniel Shiffman & 'The Coding Train' [explain Node & Twitterbots!](https://www.youtube.com/watch?v=RF5_MPSNAtU) 
+* [Darius Kazemi](http://tinysubversions.com/) is the Twitterbot GURU! He explains how to make one [here](http://tinysubversions.com/2013/09/how-to-make-a-twitter-bot/). He made the [Stay Woke Bot](https://feeltrain.com/blog/stay-woke/) code and instructions for that bot are [here](https://github.com/FeelTrainCoop/101atron)
+- Tools to make twitterbots
+    * https://glitch.com/~twitterbot
+    * https://glitch.com/botwiki
+    * https://botwiki.org/tutorials/twitterbots/
+    and when you make them - share them with [glitch!](https://docs.google.com/a/eyebeam.org/forms/d/e/1FAIpQLSeRFIw2gwVWahveCKI7VJaQsgDHZNMKLXwNFHP1YSD1fX36ug/viewform)
+- Examples of awesome bots 
+    * http://nymag.com/selectall/2015/11/12-weirdest-funniest-smartest-twitter-bots.html
+    * http://www.bbc.com/news/blogs-trending-33735177
+    * https://twitter.com/twoheadlines?lang=en
 
 ### Creative Live Communications • by [Jingwen Zhu](http://www.jingwen-zhu.com/)
 During Creative Live Communications, students will create their own online communication platforms. Students will be exposed to the current situation of monopolized social media platforms and will be encouraged to design and create their own communication platforms centered around playful interaction and sharing.
@@ -129,6 +142,10 @@ During Creative Live Communications, students will create their own online commu
     - In class [demo](http://itp.jingwenzhu.com:8080/)
     - P5 [web editor](https://alpha.editor.p5js.org/)
     - Code [here](https://github.com/ZhuJingwen/creative-live-communications)
+- Additional Resources
+    - [P5.JS](https://p5js.org/)
+    - [video tutorial](https://www.youtube.com/watch?v=8j0UDiN7my4)
+    - [online course for free](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 
 
 ## Day 8, Thursday July 13th
