@@ -156,6 +156,8 @@ During Creative Live Communications, students will create their own online commu
 
 ### Understanding the Internet • by [Jonathan Dahan](http://jedahan.com/)
 - Through a series of embodied exercises students will replecate core components of the internet and the base structures that comprise it. This exercises is intended to provide a peek inside the black box, examine the history and decisions that were made in invention of the network and reimagine how it could have been constructed differently and what the possible outcomes could have been? 
+- Additional resources
+[The Motherboard Guide to Not Getting Hacked](https://motherboard.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide?utm_campaign=pockethits&utm_medium=email&utm_source=pocket)
 - Idea for this workshop is based on the previous work of Ingrid Burrington and Surya Mattu on their project [Networks Land](http://networks.land/)
 
 ## Addtl Resources
