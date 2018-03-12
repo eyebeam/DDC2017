@@ -122,6 +122,7 @@ After looking at some of the countless ""new worlds"" games offer, the second ha
 - In this course we will build Twitter bots that can be used to engage users politically with tweets that reflect social injustices. This will be done through the text editor, [Atom](https://atom.io/).
 - Goals of this course include teaching students how to "hack" social media for activist purposes, how to build personal APIs, how to build a twitterbot, and gaining a basic understanding of coding.
 - Resources
+Link to Ari's GitHub for [this class](https://github.com/ariciano/DigitalActivism)
 Learn to make more bots
 * Daniel Shiffman & 'The Coding Train' [explain Node & Twitterbots!](https://www.youtube.com/watch?v=RF5_MPSNAtU) 
 * [Darius Kazemi](http://tinysubversions.com/) is the Twitterbot GURU! He explains how to make one [here](http://tinysubversions.com/2013/09/how-to-make-a-twitter-bot/). He made the [Stay Woke Bot](https://feeltrain.com/blog/stay-woke/) code and instructions for that bot are [here](https://github.com/FeelTrainCoop/101atron)
