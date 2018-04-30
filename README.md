@@ -139,6 +139,7 @@ Learn to make more bots
 ### Creative Live Communications • by [Jingwen Zhu](http://www.jingwen-zhu.com/)
 During Creative Live Communications, students will create their own online communication platforms. Students will be exposed to the current situation of monopolized social media platforms and will be encouraged to design and create their own communication platforms centered around playful interaction and sharing.
 - Students will learn the basics of javascript programming and interaction design methods. The technical contents of the workshop will include: server-sided programming, frontend development and UX design.
+- Syllabus online [here](https://github.com/ZhuJingwen/creative-live-communications)
 - Tools used: Arduino, Atom (or any other text editor), Chrome Browser, Terminal access to the computer.
     - In class [demo](http://itp.jingwenzhu.com:8080/)
     - P5 [web editor](https://alpha.editor.p5js.org/)
